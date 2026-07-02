@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="../assets/banner.svg" alt="[Course Title] — [Semester]" width="100%"/>
-</p>
-
-# Course Project
+![Course Project](../assets/title-project.svg)
 
 [Put project overview here]
 

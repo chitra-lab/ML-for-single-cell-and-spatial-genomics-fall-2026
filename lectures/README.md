@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="../assets/banner.svg" alt="[Course Title] — [Semester]" width="100%"/>
-</p>
-
-# Lectures
+![Lectures](../assets/title-lectures.svg)
 
 | # | Date | Topic | Slides | Notes |
 |---|------|-------|--------|-------|

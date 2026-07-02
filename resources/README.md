@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="../assets/banner.svg" alt="[Course Title] — [Semester]" width="100%"/>
-</p>
-
-# Resources
+![Resources](../assets/title-resources.svg)
 
 ## Textbooks & References
 

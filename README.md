@@ -1,16 +1,4 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="[Course Title] — [Semester], [Institution]" width="100%"/>
-</p>
-
-<p align="center">
-  <a href="policies/README.md"><img src="https://img.shields.io/badge/Syllabus%20%26%20Policies-ff1493?style=for-the-badge" alt="Syllabus"/></a>
-  <a href="assignments/README.md"><img src="https://img.shields.io/badge/Assignments-c71585?style=for-the-badge" alt="Assignments"/></a>
-  <a href="lectures/README.md"><img src="https://img.shields.io/badge/Lectures-8b0057?style=for-the-badge" alt="Lectures"/></a>
-  <a href="project/README.md"><img src="https://img.shields.io/badge/Project-ff1493?style=for-the-badge" alt="Project"/></a>
-  <a href="resources/README.md"><img src="https://img.shields.io/badge/Resources-c71585?style=for-the-badge" alt="Resources"/></a>
-</p>
-
----
+# [Course Title]
 
 **Instructor:** [Put instructor name and email here]  
 **TA:** [Put TA name and email here]  

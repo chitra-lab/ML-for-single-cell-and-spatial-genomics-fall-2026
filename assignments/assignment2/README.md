@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="../../assets/banner.svg" alt="[Course Title] — [Semester]" width="100%"/>
-</p>
-
-# Assignment 2: [Put Title Here]
+![Assignment 2](../../assets/title-assignment2.svg)
 
 **Released:** [Date]  
 **Due:** [Date] at 11:59 PM  

@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="../assets/banner.svg" alt="[Course Title] — [Semester]" width="100%"/>
-</p>
-
-# Assignments
+![Assignments](../assets/title-assignments.svg)
 
 [Put submission instructions here (e.g. GradeScope link, format requirements)]
 

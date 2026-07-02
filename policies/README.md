@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="../assets/banner.svg" alt="[Course Title] — [Semester]" width="100%"/>
-</p>
-
-# Syllabus & Course Policies
+![Syllabus & Course Policies](../assets/title-policies.svg)
 
 ## Course Description
 
