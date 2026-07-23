@@ -6,10 +6,10 @@
 
 | Milestone | Due Date | Details |
 |-----------|----------|---------|
-| Proposal | [Date] | [Put details here] |
-| Preliminary Report | [Date] | [Put details here] |
-| Final Report | [Date] | [Put details here] |
-| Presentations | Dec 3, 8, 10 | In-class presentations |
+| Proposal | October 1 | [Put details here] |
+| Preliminary Report | November 14 | [Put details here] |
+| Presentations | December 3, 8 & 10 | In-class presentations |
+| Final Report | December 12 | [Put details here] |
 
 ## Proposal
 
