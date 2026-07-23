@@ -49,7 +49,7 @@
 | Oct 8 | [12](lectures/lecture12/) | Random walks 2 + trajectory inference + in-class lab | |
 | Oct 13 | [13](lectures/lecture13/) | Graph neural networks 1 | **Quiz 3** |
 | Oct 15 | [14](lectures/lecture14/) | Graph neural networks 2 + assorted topics | |
-| Oct 20 | [15](lectures/lecture15/) | Assorted topics | Midterm TBD |
+| Oct 20 | [15](lectures/lecture15/) | Assorted topics | **Verbal Exam 1** |
 | Oct 22 | — | **NO CLASS — Fall break** | |
 | Oct 27 | [16](lectures/lecture16/) | Optimal transport I: Monge/Kantorovich/Wasserstein distance | **Quiz 4** |
 | Oct 29 | [17](lectures/lecture17/) | Optimal transport II: Sinkhorn | |
@@ -65,6 +65,7 @@
 | Dec 3 | [25](lectures/lecture25/) | **Project presentations** | |
 | Dec 8 | [26](lectures/lecture26/) | **Project presentations** | |
 | Dec 10 | [27](lectures/lecture27/) | **Project presentations** | |
+| Dec 11 | — | **Verbal Exam 2** | |
 
 ---
 
@@ -74,6 +75,6 @@
 |-----------|--------|
 | Assignments (5×) | [Put % here] |
 | Quizzes (6×) | [Put % here] |
-| Midterm Exam | [Put % here] |
+| Verbal Exams (2×) | [Put % here] |
 | Course Project | [Put % here] |
 | Participation | [Put % here] |

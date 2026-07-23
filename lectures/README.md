@@ -16,7 +16,7 @@
 | 12 | Oct 8 | Random walks 2 + trajectory inference + in-class lab | [Slides](lecture12/) |
 | 13 | Oct 13 | Graph neural networks 1 | [Slides](lecture13/) |
 | 14 | Oct 15 | Graph neural networks 2 + assorted topics | [Slides](lecture14/) |
-| 15 | Oct 20 | Assorted topics | [Slides](lecture15/) |
+| 15 | Oct 20 | Assorted topics + **Verbal Exam 1** | [Slides](lecture15/) |
 | — | Oct 22 | **NO CLASS — Fall break** | |
 | 16 | Oct 27 | Optimal transport I: Monge/Kantorovich/Wasserstein distance | [Slides](lecture16/) |
 | 17 | Oct 29 | Optimal transport II: Sinkhorn | [Slides](lecture17/) |
@@ -32,3 +32,4 @@
 | 25 | Dec 3 | Project presentations | |
 | 26 | Dec 8 | Project presentations | |
 | 27 | Dec 10 | Project presentations | |
+| — | Dec 11 | **Verbal Exam 2** | |
