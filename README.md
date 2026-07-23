@@ -70,46 +70,6 @@
 
 ---
 
-## Assessment Calendar
-
-### Assignments
-
-| # | Topic | Released | Due |
-|---|-------|----------|-----|
-| HW1 | PCA / NMF / probabilistic matrix factorization | Sep 1 | Sep 25 |
-| HW2 | Deep learning / AE / VAE / clustering | Sep 29 | Oct 23 |
-| HW3 | Manifold learning / random walks / GNNs | Oct 27 | Nov 20 |
-| HW4 | Optimal transport | Nov 5 | Dec 4 |
-| HW5 | Guest lecture synthesis / applications | Nov 19 | Dec 1 |
-
-### Labs
-
-| # | Prelab Due | In-Class | Report Due |
-|---|-----------|----------|------------|
-| Lab 1 | Sep 14 | Sep 15 | Sep 21 |
-| Lab 2 | Sep 23 | Sep 24 | Sep 28 |
-| Lab 3 | Oct 7 | Oct 8 | Oct 12 |
-
-### Quizzes
-
-| # | Date |
-|---|------|
-| Quiz 1 | Sep 17 |
-| Quiz 2 | Sep 29 |
-| Quiz 3 | Oct 13 |
-| Quiz 4 | Oct 27 |
-| Quiz 5 | Nov 10 |
-| Quiz 6 | Dec 1 |
-
-### Verbal Exams
-
-| # | Date |
-|---|------|
-| Verbal Exam 1 | Oct 20 |
-| Verbal Exam 2 | Dec 11 |
-
----
-
 ## Grading
 
 | Component | Weight |
