@@ -76,9 +76,9 @@ ${\color{blue}\textbf{Homework}}$ &nbsp;&nbsp; ${\color{green}\textbf{Lab}}$ &nb
 
 | Component | Weight |
 |-----------|--------|
-| Assignments (HW1–5) | [Put % here] |
-| Labs (Lab 1–3) | [Put % here] |
-| Quizzes (6×) | [Put % here] |
-| Verbal Exams (2×) | [Put % here] |
-| Course Project | [Put % here] |
-| Participation | [Put % here] |
+| Assignments (HW1–5) | 10% |
+| Labs (Lab 1–5) | 10% |
+| Quizzes (5×) | 25% |
+| Verbal Exams (2×) | 25% |
+| Course Project | 25% |
+| Participation | 5% |
