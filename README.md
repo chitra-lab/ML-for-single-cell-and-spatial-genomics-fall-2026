@@ -36,37 +36,37 @@
 
 | Date | Class | Topic | Notes |
 |------|-------|-------|-------|
-| Sep 1 | [1](lectures/lecture01/) | Introduction + single-cell primer | HW1 released (due Sep 25) |
-| Sep 3 | [2](lectures/lecture02/) | Linear algebra/probability refresher; what makes a comp. bio. algorithm? | |
-| Sep 8 | [3](lectures/lecture03/) | Linear dimensionality reduction 1: PCA | |
-| Sep 10 | [4](lectures/lecture04/) | Linear dimensionality reduction 2: NMF | |
-| Sep 15 | [5](lectures/lecture05/) | Linear dimensionality reduction 3: probabilistic matrix factorization + in-class lab | Lab 1 (prelab due Sep 14 · report due Sep 21) |
-| Sep 17 | [6](lectures/lecture06/) | Deep learning primer + Deep dimensionality reduction 1: AE + start VAE | **Quiz 1** |
-| Sep 22 | [7](lectures/lecture07/) | Deep dimensionality reduction 2: VAE (cont'd) + contrastive learning | |
-| Sep 24 | [8](lectures/lecture08/) | (Graph) clustering + in-class lab | Lab 2 (prelab due Sep 23 · report due Sep 28) |
-| Sep 29 | [9](lectures/lecture09/) | Manifold learning 1 + spectral clustering | **Quiz 2** · HW2 released (due Oct 23) |
-| Oct 1 | [10](lectures/lecture10/) | Manifold learning 2 + t-SNE/UMAP | |
-| Oct 6 | [11](lectures/lecture11/) | Random walks 1 | |
-| Oct 8 | [12](lectures/lecture12/) | Random walks 2 + trajectory inference + in-class lab | Lab 3 (prelab due Oct 7 · report due Oct 12) |
-| Oct 13 | [13](lectures/lecture13/) | Graph neural networks 1 | **Quiz 3** |
-| Oct 15 | [14](lectures/lecture14/) | Graph neural networks 2 + assorted topics | |
-| Oct 20 | [15](lectures/lecture15/) | Assorted topics | **Verbal Exam 1** |
-| Oct 22 | | **NO CLASS — Fall break** | |
-| Oct 27 | [16](lectures/lecture16/) | Optimal transport I: Monge/Kantorovich/Wasserstein distance | **Quiz 4** · HW3 released (due Nov 20) |
-| Oct 29 | [17](lectures/lecture17/) | Optimal transport II: Sinkhorn | |
-| Nov 3 | [18](lectures/lecture18/) | OT applications I | |
-| Nov 5 | [19](lectures/lecture19/) | OT applications II | HW4 released (due Dec 4) |
-| Nov 10 | [20](lectures/lecture20/) | Guest lecture | **Quiz 5** |
-| Nov 12 | [21](lectures/lecture21/) | Guest lecture | |
-| Nov 17 | [22](lectures/lecture22/) | Guest lecture | |
-| Nov 19 | [23](lectures/lecture23/) | Guest lecture | HW5 released (due Dec 1) |
-| Nov 24 | | **NO CLASS — Thanksgiving break** | |
-| Nov 26 | | **NO CLASS — Thanksgiving break** | |
-| Dec 1 | [24](lectures/lecture24/) | Buffer | **Quiz 6** · HW5 due |
-| Dec 3 | [25](lectures/lecture25/) | **Project presentations** | |
-| Dec 8 | [26](lectures/lecture26/) | **Project presentations** | |
-| Dec 10 | [27](lectures/lecture27/) | **Project presentations** | |
-| Dec 11 | | **Verbal Exam 2** | |
+| September 1 | [1](lectures/lecture01/) | Introduction + single-cell primer | HW1 released (due September 25) |
+| September 3 | [2](lectures/lecture02/) | Linear algebra/probability refresher; what makes a comp. bio. algorithm? | |
+| September 8 | [3](lectures/lecture03/) | Linear dimensionality reduction 1: PCA | |
+| September 10 | [4](lectures/lecture04/) | Linear dimensionality reduction 2: NMF | |
+| September 15 | [5](lectures/lecture05/) | Linear dimensionality reduction 3: probabilistic matrix factorization + in-class lab | Lab 1 (prelab due September 14 · report due September 21) |
+| September 17 | [6](lectures/lecture06/) | Deep learning primer + Deep dimensionality reduction 1: AE + start VAE | **Quiz 1** |
+| September 22 | [7](lectures/lecture07/) | Deep dimensionality reduction 2: VAE (cont'd) + contrastive learning | |
+| September 24 | [8](lectures/lecture08/) | (Graph) clustering + in-class lab | Lab 2 (prelab due September 23 · report due September 28) |
+| September 29 | [9](lectures/lecture09/) | Manifold learning 1 + spectral clustering | **Quiz 2** · HW2 released (due October 23) |
+| October 1 | [10](lectures/lecture10/) | Manifold learning 2 + t-SNE/UMAP | |
+| October 6 | [11](lectures/lecture11/) | Random walks 1 | |
+| October 8 | [12](lectures/lecture12/) | Random walks 2 + trajectory inference + in-class lab | Lab 3 (prelab due October 7 · report due October 12) |
+| October 13 | [13](lectures/lecture13/) | Graph neural networks 1 | **Quiz 3** |
+| October 15 | [14](lectures/lecture14/) | Graph neural networks 2 + assorted topics | |
+| October 20 | [15](lectures/lecture15/) | Assorted topics | **Verbal Exam 1** |
+| October 22 | | **NO CLASS — Fall break** | |
+| October 27 | [16](lectures/lecture16/) | Optimal transport I: Monge/Kantorovich/Wasserstein distance | **Quiz 4** · HW3 released (due November 20) |
+| October 29 | [17](lectures/lecture17/) | Optimal transport II: Sinkhorn | |
+| November 3 | [18](lectures/lecture18/) | OT applications I | |
+| November 5 | [19](lectures/lecture19/) | OT applications II | HW4 released (due December 4) |
+| November 10 | [20](lectures/lecture20/) | Guest lecture | **Quiz 5** |
+| November 12 | [21](lectures/lecture21/) | Guest lecture | |
+| November 17 | [22](lectures/lecture22/) | Guest lecture | |
+| November 19 | [23](lectures/lecture23/) | Guest lecture | HW5 released (due December 1) |
+| November 24 | | **NO CLASS — Thanksgiving break** | |
+| November 26 | | **NO CLASS — Thanksgiving break** | |
+| December 1 | [24](lectures/lecture24/) | Buffer | **Quiz 6** · HW5 due |
+| December 3 | [25](lectures/lecture25/) | **Project presentations** | |
+| December 8 | [26](lectures/lecture26/) | **Project presentations** | |
+| December 10 | [27](lectures/lecture27/) | **Project presentations** | |
+| December 11 | | **Verbal Exam 2** | |
 
 ---
 
