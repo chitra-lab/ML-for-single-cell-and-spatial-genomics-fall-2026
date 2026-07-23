@@ -9,7 +9,7 @@
 | Proposal | [Date] | [Put details here] |
 | Preliminary Report | [Date] | [Put details here] |
 | Final Report | [Date] | [Put details here] |
-| Presentations | [Date range] | [Put details here] |
+| Presentations | Dec 3, 8, 10 | In-class presentations |
 
 ## Proposal
 
