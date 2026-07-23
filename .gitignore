@@ -3,3 +3,7 @@ __pycache__/
 *.pyc
 *.egg-info/
 .DS_Store
+
+# Private guide/teacher files
+*[Gg]uide*.pdf
+*[Gg]uide*.docx
