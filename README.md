@@ -23,8 +23,6 @@ Recent experimental advances enable the measurement of DNA, RNA and other divers
 | Lectures | [lectures/](lectures/) |
 | Project Info | [project/](.project/README.md) |
 | Additional Resources | [resources/](.resources/README.md) |
-| Discussion Board | TBD |
-| Submission | TBD |
 
 ---
 
