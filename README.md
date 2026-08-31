@@ -34,7 +34,7 @@
 
 ## Schedule
 
-| Date | Class | Topic | Notes |
+| Date | Class Notes | Topic | Notes |
 |------|-------|-------|-------|
 | 9/1 | [1](lectures/lecture01/) | Introduction + single-cell primer | <ul><li>HW1 released <mark>(due **9/17**)</mark></li></ul> |
 | 9/3 | [2](lectures/lecture02/) | Linear algebra/probability refresher; prelab | <ul><li>Introduce Final Project</li></ul> |
