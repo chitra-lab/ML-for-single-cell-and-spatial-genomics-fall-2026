@@ -59,7 +59,7 @@ ${\color{blue}\textbf{Homework}}$ &nbsp;&nbsp; ${\color{green}\textbf{Lab}}$ &nb
 | 11/3 | [18](lectures/lecture18/) | Optimal transport I: Monge/Kantorovich/Wasserstein distance | ${\color{goldenrod}\textbf{Quiz 4}}$<br>${\color{blue}\text{HW4 due}}$<br>${\color{blue}\text{HW5 released (due }\textbf{11/17}\text{)}}$ |
 | 11/5 | [19](lectures/lecture19/) | Optimal transport II: Sinkhorn | |
 | 11/10 | [20](lectures/lecture20/) | OT 3: Gromov-Wasserstein, Dynamic OT, (semi-)balanced/unbalanced, applications | |
-| 11/12 | [21](lectures/lecture21/) | OT 4 + in-class lab: score/flow/conditional flow matching | ${\color{green}\text{Lab 5 in class}}$<br>${\color{green}\text{Report due }\textbf{11/16}}$<br>${\color{purple}\text{Preliminary report due }\textbf{11/12}}$ |
+| 11/12 | [21](lectures/lecture21/) | OT 4 + in-class lab: score/flow/conditional flow matching | ${\color{green}\text{Lab 5 in class}}$<br>${\color{green}\text{Report due }\textbf{11/16}}$<br>${\color{purple}\text{Project Preliminary Report due}}$ |
 | 11/17 | [22](lectures/lecture22/) | Guest lecture — Min-zhi Jiang (Biostats) | ${\color{goldenrod}\textbf{Quiz 5}}$<br>${\color{blue}\text{HW5 due}}$ |
 | 11/19 | [23](lectures/lecture23/) | Guest lecture — Vishaka Gopalan (NIH) + Shashwat Kumar (BME) | |
 | 11/24 | | **NO CLASS — Thanksgiving break** | |
