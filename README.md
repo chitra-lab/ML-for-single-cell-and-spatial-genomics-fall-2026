@@ -38,25 +38,25 @@ ${\color{blue}\textbf{Homework}}$ &nbsp;&nbsp; ${\color{green}\textbf{Lab}}$ &nb
 
 | Date | Class | Topic | Notes |
 |------|-------|-------|-------|
-| 9/1 | [1](lectures/lecture01/) | Introduction + single-cell primer | ${\color{blue}\text{HW1 released (due }\textbf{9/17}\text{)}}$ |
+| 9/1 | [1](lectures/lecture01/) | Introduction + single-cell primer | $\color{blue}\text{HW1 released }\colorbox{FFACD9}{\color{blue}\text{(due }\textbf{9/17}\text{)}}$ |
 | 9/3 | [2](lectures/lecture02/) | Linear algebra/probability refresher; prelab | ${\color{purple}\text{Introduce Final Project}}$ |
 | 9/8 | [3](lectures/lecture03/) | Linear dimensionality reduction 1: PCA | |
 | 9/10 | [4](lectures/lecture04/) | Linear dimensionality reduction 2: NMF | |
 | 9/15 | [5](lectures/lecture05/) | Linear dimensionality reduction 3: probabilistic matrix factorization + in-class lab | ${\color{green}\text{Lab 1 in class}}$<br>${\color{green}\text{Report due }\textbf{9/21}}$ |
-| 9/17 | [6](lectures/lecture06/) | Deep learning primer + AE | ${\color{goldenrod}\textbf{Quiz 1}}$<br>${\color{blue}\text{HW1 due}}$<br>${\color{blue}\text{HW2 released (due }\textbf{9/29}\text{)}}$ |
+| 9/17 | [6](lectures/lecture06/) | Deep learning primer + AE | ${\color{goldenrod}\textbf{Quiz 1}}$<br>${\color{blue}\text{HW1 due}}$<br>$\color{blue}\text{HW2 released }\colorbox{FFACD9}{\color{blue}\text{(due }\textbf{9/29}\text{)}}$ |
 | 9/22 | [7](lectures/lecture07/) | Deep dimensionality reduction: VAE + contrastive learning | |
 | 9/24 | [8](lectures/lecture08/) | Deep dimensionality reduction: FMs + in-class lab | ${\color{green}\text{Lab 2 in class}}$<br>${\color{green}\text{Report due }\textbf{9/28}}$ |
-| 9/29 | [9](lectures/lecture09/) | Manifold learning / graphs 1: definitions + ISOMAP | ${\color{goldenrod}\textbf{Quiz 2}}$<br>${\color{blue}\text{HW2 due}}$<br>${\color{blue}\text{HW3 released (due }\textbf{10/13}\text{)}}$ |
+| 9/29 | [9](lectures/lecture09/) | Manifold learning / graphs 1: definitions + ISOMAP | ${\color{goldenrod}\textbf{Quiz 2}}$<br>${\color{blue}\text{HW2 due}}$<br>$\color{blue}\text{HW3 released }\colorbox{FFACD9}{\color{blue}\text{(due }\textbf{10/13}\text{)}}$ |
 | 10/1 | [10](lectures/lecture10/) | Manifold learning / graphs 2: random walks | ${\color{purple}\text{Project proposal due}}$ |
 | 10/6 | [11](lectures/lecture11/) | Manifold learning / graphs 3: t-SNE/UMAP, Markov chains | |
 | 10/8 | [12](lectures/lecture12/) | Manifold learning / graphs 4 (cont'd) + in-class lab | ${\color{green}\text{Lab 3 in class}}$<br>${\color{green}\text{Report due }\textbf{10/12}}$ |
-| 10/13 | [13](lectures/lecture13/) | Graph clustering | ${\color{goldenrod}\textbf{Quiz 3}}$<br>${\color{blue}\text{HW3 due}}$ |
+| 10/13 | [13](lectures/lecture13/) | Graph clustering | ${\color{goldenrod}\textbf{Quiz 3}}$<br>${\color{blue}\text{HW3 due}}$<br>$\color{blue}\text{HW4 released }\colorbox{FFACD9}{\color{blue}\text{(due }\textbf{11/3}\text{)}}$ |
 | 10/15 | [14](lectures/lecture14/) | Guest lecture — Atul Deshpande (SOM) | |
 | 10/20 | [15](lectures/lecture15/) | Graph clustering (cont'd) + GNNs | |
 | 10/22 | | **NO CLASS — Fall break** | ${\color{red}\textbf{Oral\ Exam\ 1}}$ (date TBD) |
-| 10/27 | [16](lectures/lecture16/) | Spatial SVGs + neural fields (e.g. GASTON) + point processes (segmentation) | ${\color{blue}\text{HW4 released (due }\textbf{11/3}\text{)}}$ |
+| 10/27 | [16](lectures/lecture16/) | Spatial SVGs + neural fields (e.g. GASTON) + point processes (segmentation) | |
 | 10/29 | [17](lectures/lecture17/) | Spatial (cont'd) + in-class lab | ${\color{green}\text{Lab 4 in class}}$<br>${\color{green}\text{Report due }\textbf{11/2}}$ |
-| 11/3 | [18](lectures/lecture18/) | Optimal transport I: Monge/Kantorovich/Wasserstein distance | ${\color{goldenrod}\textbf{Quiz 4}}$<br>${\color{blue}\text{HW4 due}}$<br>${\color{blue}\text{HW5 released (due }\textbf{11/17}\text{)}}$ |
+| 11/3 | [18](lectures/lecture18/) | Optimal transport I: Monge/Kantorovich/Wasserstein distance | ${\color{goldenrod}\textbf{Quiz 4}}$<br>${\color{blue}\text{HW4 due}}$<br>$\color{blue}\text{HW5 released }\colorbox{FFACD9}{\color{blue}\text{(due }\textbf{11/17}\text{)}}$ |
 | 11/5 | [19](lectures/lecture19/) | Optimal transport II: Sinkhorn | |
 | 11/10 | [20](lectures/lecture20/) | OT 3: Gromov-Wasserstein, Dynamic OT, (semi-)balanced/unbalanced, applications | |
 | 11/12 | [21](lectures/lecture21/) | OT 4 + in-class lab: score/flow/conditional flow matching | ${\color{green}\text{Lab 5 in class}}$<br>${\color{green}\text{Report due }\textbf{11/16}}$<br>${\color{purple}\text{Project Preliminary Report due}}$ |
