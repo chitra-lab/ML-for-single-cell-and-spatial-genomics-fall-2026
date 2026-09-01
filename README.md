@@ -2,15 +2,13 @@
 
 **Instructor:** Uthsav Chitra ([uthsav@jhu.edu](mailto:uthsav@jhu.edu))  
 **TA:** Sayuni (Sai) Dharmasena ([sdharma5@jhu.edu](mailto:sdharma5@jhu.edu))  
-**Class Hours:** TTh 4:30 PM – 5:45 PM | Homewood Campus, Gilman 55  
-**TA:** Sayuni (Sai) Dharmasena ([sdharma5@jhu.edu](mailto:sdharma5@jhu.edu))<br>
-**Class Hours:** TTh 4:30 PM–5:45 PM | Homewood Campus, Gilman 55<br>
-**Office Hours:**<br>
-&bull; **T (Sai):** After class–6:45 PM in Malone 216 or on [Zoom](https://JHUBlueJays.zoom.us/j/94258459480?pwd=MaFvyXrLPvLXNI9T6ynaOep6Qn3UQk.1)<br>
-&bull; **Th (Uthsav):** After class in Malone 319<br>
-**[Canvas](https://jhu.instructure.com/courses/128341)**
----
+**Class Hours:** TTh 4:30 PM–5:45 PM | Homewood Campus, Gilman 55  
+**Office Hours:**  
+&bull; T (Sai): After class–6:45 PM in Malone 216 or on [Zoom](https://JHUBlueJays.zoom.us/j/94258459480?pwd=MaFvyXrLPvLXNI9T6ynaOep6Qn3UQk.1)  
+&bull; Th (Uthsav): After class in Malone 319  
+[Canvas](https://jhu.instructure.com/courses/128341)
 
+---
 ## Course Overview
 
 Recent experimental advances enable the measurement of DNA, RNA and other diverse molecular modalities inside individual cells at an unprecedented scale and resolution. Computational and machine learning (ML) methods are essential for analyzing and interpreting these high-dimensional, single-cell genomics datasets. This course introduces computational/ML frameworks that are often used to analyze modern single-cell and spatial datasets. Topics include but are not limited to: matrix factorization; autoencoders and contrastive learning; graphs and manifold learning; graph neural networks; computational optimal transport (OT); Gromov-Wasserstein and dynamic OT. Expected course background in python programming, probability, linear algebra, and multi-variable calculus. A machine learning/data science course is strongly recommended. No biology background is necessary.
