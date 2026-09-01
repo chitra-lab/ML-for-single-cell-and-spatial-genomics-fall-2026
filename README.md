@@ -17,12 +17,10 @@ Recent experimental advances enable the measurement of DNA, RNA and other divers
 
 | Resource | Link |
 |---|---|
-| Syllabus & Policies | [policies/](.policies/README.md) |
+| Syllabus & Policies | [syllabus.pdf](syllabus.pdf) |
 | Assignments | [assignments/](assignments/README.md) |
 | Labs | [labs/](labs/) |
 | Lectures | [lectures/](lectures/) |
-| Project Info | [project/](.project/README.md) |
-| Additional Resources | [resources/](.resources/README.md) |
 
 ---
 
@@ -67,9 +65,9 @@ Recent experimental advances enable the measurement of DNA, RNA and other divers
 
 | Component | Weight |
 |-----------|--------|
-| Assignments (HW1–5) | 10% |
-| Labs (Lab 1–5) | 10% |
-| Quizzes (5×) | 25% |
-| Verbal Exams (2×) | 25% |
-| Course Project | 25% |
-| Participation | 5% |
+| In-class assessments | 25% (5% each) |
+| Oral exam | 25% |
+| Homework | 10% |
+| Labs | 10% |
+| Attendance and participation | 5% |
+| Final project + oral exam | 25% |
