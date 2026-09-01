@@ -27,7 +27,7 @@ Recent experimental advances enable the measurement of DNA, RNA and other divers
 ![Course schedule](assets/course-schedule.svg)
 
 <details>
-<summary>Accessible plain-text schedule (editable Markdown table)</summary>
+<summary>Plain-text schedule</summary>
 
 | Date | Class | Topic | Notes |
 |------|-------|-------|-------|
