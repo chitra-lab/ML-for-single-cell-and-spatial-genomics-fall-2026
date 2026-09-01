@@ -3,7 +3,7 @@
 **Instructor:** Uthsav Chitra ([uthsav@jhu.edu](mailto:uthsav@jhu.edu))  
 **TA:** Sayuni (Sai) Dharmasena ([sdharma5@jhu.edu](mailto:sdharma5@jhu.edu))  
 **Class Hours:** TTh 4:30 PM – 5:45 PM | Homewood Campus, Gilman 55  
-**Office Hours:** TBD  
+**Office Hours:** T (Sai) after class - 6:45 PM and Th (Uthsav) after class  
 **Discussion Board:** TBD  
 **Gradescope:** TBD
 
