@@ -3,11 +3,11 @@
 **Instructor:** Uthsav Chitra ([uthsav@jhu.edu](mailto:uthsav@jhu.edu))  
 **TA:** Sayuni (Sai) Dharmasena ([sdharma5@jhu.edu](mailto:sdharma5@jhu.edu))  
 **Class Hours:** TTh 4:30 PM – 5:45 PM | Homewood Campus, Gilman 55  
-**Office Hours:**
-
-- **Tuesday (Sai):** After class–6:45 PM in Malone 216 or on [Zoom](https://JHUBlueJays.zoom.us/j/94258459480?pwd=MaFvyXrLPvLXNI9T6ynaOep6Qn3UQk.1)
-- **Thursday (Uthsav):** After class in Malone 319
-
+**TA:** Sayuni (Sai) Dharmasena ([sdharma5@jhu.edu](mailto:sdharma5@jhu.edu))<br>
+**Class Hours:** TTh 4:30 PM–5:45 PM | Homewood Campus, Gilman 55<br>
+**Office Hours:**<br>
+&bull; **T (Sai):** After class–6:45 PM in Malone 216 or on [Zoom](https://JHUBlueJays.zoom.us/j/94258459480?pwd=MaFvyXrLPvLXNI9T6ynaOep6Qn3UQk.1)<br>
+&bull; **Th (Uthsav):** After class in Malone 319<br>
 **[Canvas](https://jhu.instructure.com/courses/128341)**
 ---
 
