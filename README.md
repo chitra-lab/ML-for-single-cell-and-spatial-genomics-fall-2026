@@ -26,40 +26,45 @@ Recent experimental advances enable the measurement of DNA, RNA and other divers
 
 ## Schedule
 
-**Legend:** $\color{blue}\textbf{\textsf{Homework}}$ &nbsp;&nbsp; $\color{green}\textbf{\textsf{Lab}}$ &nbsp;&nbsp; $\color{goldenrod}\textbf{\textsf{Quiz}}$ &nbsp;&nbsp; $\color{red}\textbf{\textsf{Oral Exam}}$ &nbsp;&nbsp; $\color{purple}\textbf{\textsf{Project}}$
+![Course schedule](assets/course-schedule.svg)
+
+<details>
+<summary>Accessible plain-text schedule</summary>
 
 | Date | Class Notes | Topic | Notes |
 |------|-------|-------|-------|
-| 9/1 | [1](lectures/) | Introduction + single-cell primer | $\color{blue}\textbf{\textsf{HW1 released (due 9/17)}}$ |
-| 9/3 | [2](lectures/) | Linear algebra/probability refresher; prelab | $\color{purple}\textbf{\textsf{Introduce Final Project}}$ |
+| 9/1 | [1](lectures/) | Introduction + single-cell primer | HW1 released <mark>(due **9/17**)</mark> |
+| 9/3 | [2](lectures/) | Linear algebra/probability refresher; prelab | Introduce Final Project |
 | 9/8 | [3](lectures/) | Linear dimensionality reduction 1: PCA | |
 | 9/10 | [4](lectures/) | Linear dimensionality reduction 2: NMF | |
-| 9/15 | [5](lectures/) | Linear dimensionality reduction 3: probabilistic matrix factorization + in-class lab | $\color{green}\textbf{\textsf{Lab 1 in class (Report due 9/21)}}$ |
-| 9/17 | [6](lectures/) | Deep learning primer + AE | $\color{goldenrod}\textbf{\textsf{Quiz 1}}$<br>$\color{blue}\textbf{\textsf{HW1 due}}$<br>$\color{blue}\textbf{\textsf{HW2 released (due 9/29)}}$ |
+| 9/15 | [5](lectures/) | Linear dimensionality reduction 3: probabilistic matrix factorization + in-class lab | Lab 1 in class (Report <mark>due **9/21**</mark>) |
+| 9/17 | [6](lectures/) | Deep learning primer + AE | **Quiz 1**<br>HW1 <mark>due</mark><br>HW2 released <mark>(due **9/29**)</mark> |
 | 9/22 | [7](lectures/) | Deep dimensionality reduction: VAE + contrastive learning | |
-| 9/24 | [8](lectures/) | Deep dimensionality reduction: FMs + in-class lab | $\color{green}\textbf{\textsf{Lab 2 in class (Report due 9/28)}}$ |
-| 9/29 | [9](lectures/) | Manifold learning / graphs 1: definitions + ISOMAP | $\color{goldenrod}\textbf{\textsf{Quiz 2}}$<br>$\color{blue}\textbf{\textsf{HW2 due}}$<br>$\color{blue}\textbf{\textsf{HW3 released (due 10/13)}}$ |
-| 10/1 | [10](lectures/) | Manifold learning / graphs 2: random walks | $\color{purple}\textbf{\textsf{Project proposal due}}$ |
+| 9/24 | [8](lectures/) | Deep dimensionality reduction: FMs + in-class lab | Lab 2 in class (Report <mark>due **9/28**</mark>) |
+| 9/29 | [9](lectures/) | Manifold learning / graphs 1: definitions + ISOMAP | **Quiz 2**<br>HW2 <mark>due</mark><br>HW3 released <mark>(due **10/13**)</mark> |
+| 10/1 | [10](lectures/) | Manifold learning / graphs 2: random walks | Project proposal <mark>due</mark> |
 | 10/6 | [11](lectures/) | Manifold learning / graphs 3: t-SNE/UMAP, Markov chains | |
-| 10/8 | [12](lectures/) | Manifold learning / graphs 4 (cont.) + in-class lab | $\color{green}\textbf{\textsf{Lab 3 in class (Report due 10/12)}}$ |
-| 10/13 | [13](lectures/) | Graph clustering | $\color{goldenrod}\textbf{\textsf{Quiz 3}}$<br>$\color{blue}\textbf{\textsf{HW3 due}}$<br>$\color{blue}\textbf{\textsf{HW4 released (due 11/3)}}$ |
+| 10/8 | [12](lectures/) | Manifold learning / graphs 4 (cont.) + in-class lab | Lab 3 in class (Report <mark>due **10/12**</mark>) |
+| 10/13 | [13](lectures/) | Graph clustering | **Quiz 3**<br>HW3 <mark>due</mark><br>HW4 released <mark>(due **11/3**)</mark> |
 | 10/15 | [14](lectures/) | Guest lecture: Atul Deshpande (SOM) | |
 | 10/20 | [15](lectures/) | Graph clustering (cont.) + GNNs | |
-| 10/22 | | **NO CLASS: Fall break** | $\color{red}\textbf{\textsf{Oral Exam 1 (date TBD)}}$ |
+| 10/22 | | **NO CLASS: Fall break** | **Oral Exam 1** (date TBD) |
 | 10/27 | [16](lectures/) | Spatial SVGs + neural fields (e.g. GASTON) + point processes (segmentation) | |
-| 10/29 | [17](lectures/) | Spatial (cont.) + in-class lab | $\color{green}\textbf{\textsf{Lab 4 in class (Report due 11/2)}}$ |
-| 11/3 | [18](lectures/) | Optimal transport I: Monge/Kantorovich/Wasserstein distance | $\color{goldenrod}\textbf{\textsf{Quiz 4}}$<br>$\color{blue}\textbf{\textsf{HW4 due}}$<br>$\color{blue}\textbf{\textsf{HW5 released (due 11/17)}}$ |
+| 10/29 | [17](lectures/) | Spatial (cont.) + in-class lab | Lab 4 in class (Report <mark>due **11/2**</mark>) |
+| 11/3 | [18](lectures/) | Optimal transport I: Monge/Kantorovich/Wasserstein distance | **Quiz 4**<br>HW4 <mark>due</mark><br>HW5 released <mark>(due **11/17**)</mark> |
 | 11/5 | [19](lectures/) | Optimal transport II: Sinkhorn | |
 | 11/10 | [20](lectures/) | OT 3: Gromov-Wasserstein, Dynamic OT, (semi-)balanced/unbalanced, applications | |
-| 11/12 | [21](lectures/) | OT 4 + in-class lab: score/flow/conditional flow matching | $\color{green}\textbf{\textsf{Lab 5 in class (Report due 11/16)}}$<br>$\color{purple}\textbf{\textsf{Project Preliminary Report due}}$ |
-| 11/17 | [22](lectures/) | Guest lecture: Min-zhi Jiang (Biostats) | $\color{goldenrod}\textbf{\textsf{Quiz 5}}$<br>$\color{blue}\textbf{\textsf{HW5 due}}$ |
+| 11/12 | [21](lectures/) | OT 4 + in-class lab: score/flow/conditional flow matching | Lab 5 in class (Report <mark>due **11/16**</mark>)<br>Project Preliminary Report <mark>due</mark> |
+| 11/17 | [22](lectures/) | Guest lecture: Min-zhi Jiang (Biostats) | **Quiz 5**<br>HW5 <mark>due</mark> |
 | 11/19 | [23](lectures/) | Guest lecture: Vishaka Gopalan (NIH) + Shashwat Kumar (BME) | |
 | 11/24 | | **NO CLASS: Thanksgiving break** | |
 | 11/26 | | **NO CLASS: Thanksgiving break** | |
 | 12/1 | [24](lectures/) | Guest lecture: Yiqun Chen (Biostats/CS) | |
 | 12/3 | [25](lectures/) | **Project presentations** | |
 | 12/8 | [26](lectures/) | **Project presentations** | |
-| 12/10 | [27](lectures/) | **Project presentations** | $\color{purple}\textbf{\textsf{Final report due 12/12}}$<br>$\color{red}\textbf{\textsf{Oral Exam 2 (on final project)}}$ |
+| 12/10 | [27](lectures/) | **Project presentations** | Final report <mark>due **12/12**</mark><br>**Oral Exam 2** (on final project) |
+
+</details>
 
 ---
 

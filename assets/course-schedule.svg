@@ -1,0 +1,175 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 859 1138" font-family="Arial, Helvetica, sans-serif">
+<rect x="0" y="0" width="859" height="1138" fill="#ffffff"/>
+<text x="12" y="34.0" font-size="12.5" font-weight="bold" fill="#57606A">Legend:</text>
+<text x="76.75" y="34.0" font-size="12.5" font-weight="bold" fill="#0969DA">Homework</text>
+<text x="156.75" y="34.0" font-size="12.5" font-weight="bold" fill="#1A7F37">Lab</text>
+<text x="200.5" y="34.0" font-size="12.5" font-weight="bold" fill="#9A6700">Quiz</text>
+<text x="251.5" y="34.0" font-size="12.5" font-weight="bold" fill="#CF222E">Oral Exam</text>
+<text x="338.75" y="34.0" font-size="12.5" font-weight="bold" fill="#8250DF">Project</text>
+<rect x="12" y="48" width="835" height="30" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1"/>
+<text x="22" y="67.0" font-size="13" font-weight="bold" fill="#1F2328">Date</text>
+<text x="82" y="67.0" font-size="13" font-weight="bold" fill="#1F2328">Class</text>
+<text x="137" y="67.0" font-size="13" font-weight="bold" fill="#1F2328">Topic</text>
+<text x="557" y="67.0" font-size="13" font-weight="bold" fill="#1F2328">Notes</text>
+<rect x="12" y="78" width="835" height="27" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+<text x="22" y="95" font-size="12.5" fill="#1F2328">9/1</text>
+<text x="82" y="95" font-size="12.5" fill="#57606A">1</text>
+<text x="137" y="95" font-size="12.5" fill="#1F2328">Introduction + single-cell primer</text>
+<text x="557" y="95" font-size="12.5" font-weight="bold" fill="#0969DA">HW1 released (due 9/17)</text>
+<rect x="12" y="105" width="835" height="27" fill="#FBFBFC"/>
+<rect x="12" y="105" width="835" height="27" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+<text x="22" y="122" font-size="12.5" fill="#1F2328">9/3</text>
+<text x="82" y="122" font-size="12.5" fill="#57606A">2</text>
+<text x="137" y="122" font-size="12.5" fill="#1F2328">Linear algebra/probability refresher; prelab</text>
+<text x="557" y="122" font-size="12.5" font-weight="bold" fill="#8250DF">Introduce Final Project</text>
+<rect x="12" y="132" width="835" height="27" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+<text x="22" y="149" font-size="12.5" fill="#1F2328">9/8</text>
+<text x="82" y="149" font-size="12.5" fill="#57606A">3</text>
+<text x="137" y="149" font-size="12.5" fill="#1F2328">Linear dimensionality reduction 1: PCA</text>
+<rect x="12" y="159" width="835" height="27" fill="#FBFBFC"/>
+<rect x="12" y="159" width="835" height="27" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+<text x="22" y="176" font-size="12.5" fill="#1F2328">9/10</text>
+<text x="82" y="176" font-size="12.5" fill="#57606A">4</text>
+<text x="137" y="176" font-size="12.5" fill="#1F2328">Linear dimensionality reduction 2: NMF</text>
+<rect x="12" y="186" width="835" height="44" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+<text x="22" y="203" font-size="12.5" fill="#1F2328">9/15</text>
+<text x="82" y="203" font-size="12.5" fill="#57606A">5</text>
+<text x="137" y="203" font-size="12.5" fill="#1F2328">Linear dimensionality reduction 3: probabilistic matrix</text>
+<text x="137" y="220" font-size="12.5" fill="#1F2328">factorization + in-class lab</text>
+<text x="557" y="203" font-size="12.5" font-weight="bold" fill="#1A7F37">Lab 1 in class (Report due 9/21)</text>
+<rect x="12" y="230" width="835" height="61" fill="#FBFBFC"/>
+<rect x="12" y="230" width="835" height="61" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+<text x="22" y="247" font-size="12.5" fill="#1F2328">9/17</text>
+<text x="82" y="247" font-size="12.5" fill="#57606A">6</text>
+<text x="137" y="247" font-size="12.5" fill="#1F2328">Deep learning primer + AE</text>
+<text x="557" y="247" font-size="12.5" font-weight="bold" fill="#9A6700">Quiz 1</text>
+<text x="557" y="264" font-size="12.5" font-weight="bold" fill="#0969DA">HW1 due</text>
+<text x="557" y="281" font-size="12.5" font-weight="bold" fill="#0969DA">HW2 released (due 9/29)</text>
+<rect x="12" y="291" width="835" height="27" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+<text x="22" y="308" font-size="12.5" fill="#1F2328">9/22</text>
+<text x="82" y="308" font-size="12.5" fill="#57606A">7</text>
+<text x="137" y="308" font-size="12.5" fill="#1F2328">Deep dimensionality reduction: VAE + contrastive learning</text>
+<rect x="12" y="318" width="835" height="27" fill="#FBFBFC"/>
+<rect x="12" y="318" width="835" height="27" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+<text x="22" y="335" font-size="12.5" fill="#1F2328">9/24</text>
+<text x="82" y="335" font-size="12.5" fill="#57606A">8</text>
+<text x="137" y="335" font-size="12.5" fill="#1F2328">Deep dimensionality reduction: FMs + in-class lab</text>
+<text x="557" y="335" font-size="12.5" font-weight="bold" fill="#1A7F37">Lab 2 in class (Report due 9/28)</text>
+<rect x="12" y="345" width="835" height="61" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+<text x="22" y="362" font-size="12.5" fill="#1F2328">9/29</text>
+<text x="82" y="362" font-size="12.5" fill="#57606A">9</text>
+<text x="137" y="362" font-size="12.5" fill="#1F2328">Manifold learning / graphs 1: definitions + ISOMAP</text>
+<text x="557" y="362" font-size="12.5" font-weight="bold" fill="#9A6700">Quiz 2</text>
+<text x="557" y="379" font-size="12.5" font-weight="bold" fill="#0969DA">HW2 due</text>
+<text x="557" y="396" font-size="12.5" font-weight="bold" fill="#0969DA">HW3 released (due 10/13)</text>
+<rect x="12" y="406" width="835" height="27" fill="#FBFBFC"/>
+<rect x="12" y="406" width="835" height="27" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+<text x="22" y="423" font-size="12.5" fill="#1F2328">10/1</text>
+<text x="82" y="423" font-size="12.5" fill="#57606A">10</text>
+<text x="137" y="423" font-size="12.5" fill="#1F2328">Manifold learning / graphs 2: random walks</text>
+<text x="557" y="423" font-size="12.5" font-weight="bold" fill="#8250DF">Project proposal due</text>
+<rect x="12" y="433" width="835" height="27" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+<text x="22" y="450" font-size="12.5" fill="#1F2328">10/6</text>
+<text x="82" y="450" font-size="12.5" fill="#57606A">11</text>
+<text x="137" y="450" font-size="12.5" fill="#1F2328">Manifold learning / graphs 3: t-SNE/UMAP, Markov chains</text>
+<rect x="12" y="460" width="835" height="27" fill="#FBFBFC"/>
+<rect x="12" y="460" width="835" height="27" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+<text x="22" y="477" font-size="12.5" fill="#1F2328">10/8</text>
+<text x="82" y="477" font-size="12.5" fill="#57606A">12</text>
+<text x="137" y="477" font-size="12.5" fill="#1F2328">Manifold learning / graphs 4 (cont.) + in-class lab</text>
+<text x="557" y="477" font-size="12.5" font-weight="bold" fill="#1A7F37">Lab 3 in class (Report due 10/12)</text>
+<rect x="12" y="487" width="835" height="61" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+<text x="22" y="504" font-size="12.5" fill="#1F2328">10/13</text>
+<text x="82" y="504" font-size="12.5" fill="#57606A">13</text>
+<text x="137" y="504" font-size="12.5" fill="#1F2328">Graph clustering</text>
+<text x="557" y="504" font-size="12.5" font-weight="bold" fill="#9A6700">Quiz 3</text>
+<text x="557" y="521" font-size="12.5" font-weight="bold" fill="#0969DA">HW3 due</text>
+<text x="557" y="538" font-size="12.5" font-weight="bold" fill="#0969DA">HW4 released (due 11/3)</text>
+<rect x="12" y="548" width="835" height="27" fill="#FBFBFC"/>
+<rect x="12" y="548" width="835" height="27" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+<text x="22" y="565" font-size="12.5" fill="#1F2328">10/15</text>
+<text x="82" y="565" font-size="12.5" fill="#57606A">14</text>
+<text x="137" y="565" font-size="12.5" fill="#1F2328">Guest lecture: Atul Deshpande (SOM)</text>
+<rect x="12" y="575" width="835" height="27" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+<text x="22" y="592" font-size="12.5" fill="#1F2328">10/20</text>
+<text x="82" y="592" font-size="12.5" fill="#57606A">15</text>
+<text x="137" y="592" font-size="12.5" fill="#1F2328">Graph clustering (cont.) + GNNs</text>
+<rect x="12" y="602" width="835" height="27" fill="#FBFBFC"/>
+<rect x="12" y="602" width="835" height="27" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+<text x="22" y="619" font-size="12.5" fill="#1F2328">10/22</text>
+<text x="137" y="619" font-size="12.5" font-weight="bold" fill="#1F2328">NO CLASS: Fall break</text>
+<text x="557" y="619" font-size="12.5" font-weight="bold" fill="#CF222E">Oral Exam 1 (date TBD)</text>
+<rect x="12" y="629" width="835" height="44" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+<text x="22" y="646" font-size="12.5" fill="#1F2328">10/27</text>
+<text x="82" y="646" font-size="12.5" fill="#57606A">16</text>
+<text x="137" y="646" font-size="12.5" fill="#1F2328">Spatial SVGs + neural fields (e.g. GASTON) + point processes</text>
+<text x="137" y="663" font-size="12.5" fill="#1F2328">(segmentation)</text>
+<rect x="12" y="673" width="835" height="27" fill="#FBFBFC"/>
+<rect x="12" y="673" width="835" height="27" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+<text x="22" y="690" font-size="12.5" fill="#1F2328">10/29</text>
+<text x="82" y="690" font-size="12.5" fill="#57606A">17</text>
+<text x="137" y="690" font-size="12.5" fill="#1F2328">Spatial (cont.) + in-class lab</text>
+<text x="557" y="690" font-size="12.5" font-weight="bold" fill="#1A7F37">Lab 4 in class (Report due 11/2)</text>
+<rect x="12" y="700" width="835" height="61" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+<text x="22" y="717" font-size="12.5" fill="#1F2328">11/3</text>
+<text x="82" y="717" font-size="12.5" fill="#57606A">18</text>
+<text x="137" y="717" font-size="12.5" fill="#1F2328">Optimal transport I: Monge/Kantorovich/Wasserstein distance</text>
+<text x="557" y="717" font-size="12.5" font-weight="bold" fill="#9A6700">Quiz 4</text>
+<text x="557" y="734" font-size="12.5" font-weight="bold" fill="#0969DA">HW4 due</text>
+<text x="557" y="751" font-size="12.5" font-weight="bold" fill="#0969DA">HW5 released (due 11/17)</text>
+<rect x="12" y="761" width="835" height="27" fill="#FBFBFC"/>
+<rect x="12" y="761" width="835" height="27" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+<text x="22" y="778" font-size="12.5" fill="#1F2328">11/5</text>
+<text x="82" y="778" font-size="12.5" fill="#57606A">19</text>
+<text x="137" y="778" font-size="12.5" fill="#1F2328">Optimal transport II: Sinkhorn</text>
+<rect x="12" y="788" width="835" height="44" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+<text x="22" y="805" font-size="12.5" fill="#1F2328">11/10</text>
+<text x="82" y="805" font-size="12.5" fill="#57606A">20</text>
+<text x="137" y="805" font-size="12.5" fill="#1F2328">OT 3: Gromov-Wasserstein, Dynamic OT,</text>
+<text x="137" y="822" font-size="12.5" fill="#1F2328">(semi-)balanced/unbalanced, applications</text>
+<rect x="12" y="832" width="835" height="44" fill="#FBFBFC"/>
+<rect x="12" y="832" width="835" height="44" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+<text x="22" y="849" font-size="12.5" fill="#1F2328">11/12</text>
+<text x="82" y="849" font-size="12.5" fill="#57606A">21</text>
+<text x="137" y="849" font-size="12.5" fill="#1F2328">OT 4 + in-class lab: score/flow/conditional flow matching</text>
+<text x="557" y="849" font-size="12.5" font-weight="bold" fill="#1A7F37">Lab 5 in class (Report due 11/16)</text>
+<text x="557" y="866" font-size="12.5" font-weight="bold" fill="#8250DF">Project Preliminary Report due</text>
+<rect x="12" y="876" width="835" height="44" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+<text x="22" y="893" font-size="12.5" fill="#1F2328">11/17</text>
+<text x="82" y="893" font-size="12.5" fill="#57606A">22</text>
+<text x="137" y="893" font-size="12.5" fill="#1F2328">Guest lecture: Min-zhi Jiang (Biostats)</text>
+<text x="557" y="893" font-size="12.5" font-weight="bold" fill="#9A6700">Quiz 5</text>
+<text x="557" y="910" font-size="12.5" font-weight="bold" fill="#0969DA">HW5 due</text>
+<rect x="12" y="920" width="835" height="27" fill="#FBFBFC"/>
+<rect x="12" y="920" width="835" height="27" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+<text x="22" y="937" font-size="12.5" fill="#1F2328">11/19</text>
+<text x="82" y="937" font-size="12.5" fill="#57606A">23</text>
+<text x="137" y="937" font-size="12.5" fill="#1F2328">Guest lecture: Vishaka Gopalan (NIH) + Shashwat Kumar (BME)</text>
+<rect x="12" y="947" width="835" height="27" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+<text x="22" y="964" font-size="12.5" fill="#1F2328">11/24</text>
+<text x="137" y="964" font-size="12.5" font-weight="bold" fill="#1F2328">NO CLASS: Thanksgiving break</text>
+<rect x="12" y="974" width="835" height="27" fill="#FBFBFC"/>
+<rect x="12" y="974" width="835" height="27" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+<text x="22" y="991" font-size="12.5" fill="#1F2328">11/26</text>
+<text x="137" y="991" font-size="12.5" font-weight="bold" fill="#1F2328">NO CLASS: Thanksgiving break</text>
+<rect x="12" y="1001" width="835" height="27" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+<text x="22" y="1018" font-size="12.5" fill="#1F2328">12/1</text>
+<text x="82" y="1018" font-size="12.5" fill="#57606A">24</text>
+<text x="137" y="1018" font-size="12.5" fill="#1F2328">Guest lecture: Yiqun Chen (Biostats/CS)</text>
+<rect x="12" y="1028" width="835" height="27" fill="#FBFBFC"/>
+<rect x="12" y="1028" width="835" height="27" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+<text x="22" y="1045" font-size="12.5" fill="#1F2328">12/3</text>
+<text x="82" y="1045" font-size="12.5" fill="#57606A">25</text>
+<text x="137" y="1045" font-size="12.5" font-weight="bold" fill="#1F2328">Project presentations</text>
+<rect x="12" y="1055" width="835" height="27" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+<text x="22" y="1072" font-size="12.5" fill="#1F2328">12/8</text>
+<text x="82" y="1072" font-size="12.5" fill="#57606A">26</text>
+<text x="137" y="1072" font-size="12.5" font-weight="bold" fill="#1F2328">Project presentations</text>
+<rect x="12" y="1082" width="835" height="44" fill="#FBFBFC"/>
+<rect x="12" y="1082" width="835" height="44" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+<text x="22" y="1099" font-size="12.5" fill="#1F2328">12/10</text>
+<text x="82" y="1099" font-size="12.5" fill="#57606A">27</text>
+<text x="137" y="1099" font-size="12.5" font-weight="bold" fill="#1F2328">Project presentations</text>
+<text x="557" y="1099" font-size="12.5" font-weight="bold" fill="#8250DF">Final report due 12/12</text>
+<text x="557" y="1116" font-size="12.5" font-weight="bold" fill="#CF222E">Oral Exam 2 (on final project)</text>
+</svg>
