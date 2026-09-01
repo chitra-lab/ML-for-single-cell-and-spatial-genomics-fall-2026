@@ -126,10 +126,11 @@ LEGEND = [
     ('Oral Exam', 'oral'), ('Project', 'project'),
 ]
 
-# ---- Font sizes (bumped up from the original 12.5/13pt pass for legibility) ----
-FONT_BODY = 15
-FONT_HEADER = 15.5
-FONT_LEGEND = 14.5
+# ---- Font sizes (~44% bigger than the original 12.5/13pt pass -- a clearly
+# noticeable jump, not just a subtle bump) ----
+FONT_BODY = 18
+FONT_HEADER = 18.5
+FONT_LEGEND = 17.5
 
 # ---- Geometry ----
 TABLE_X0 = 12
@@ -139,19 +140,19 @@ VIEWBOX_WIDTH = TABLE_X0 * 2 + TABLE_WIDTH  # keep in sync with GitHub's readme 
 
 PAD_LEFT = 10
 RIGHT_PAD = 10
-COL_GAP = 16
+COL_GAP = 18
 
-BASELINE_OFFSET = 21   # row top -> first line baseline
-LINE_INCREMENT = 20    # baseline -> next baseline (must exceed FONT_BODY to avoid vertical overlap)
-BOTTOM_PAD = 12         # last baseline -> row bottom (descender clearance)
+BASELINE_OFFSET = 25   # row top -> first line baseline
+LINE_INCREMENT = 24    # baseline -> next baseline (must exceed FONT_BODY to avoid vertical overlap)
+BOTTOM_PAD = 14         # last baseline -> row bottom (descender clearance)
 assert LINE_INCREMENT > FONT_BODY, 'line spacing must exceed font size or wrapped lines will overlap'
 
-HEADER_BASELINE_OFFSET = 24
-HEADER_ROW_HEIGHT = 37
+HEADER_BASELINE_OFFSET = 29
+HEADER_ROW_HEIGHT = 44
 
-TOP_MARGIN = 14
-LEGEND_BASELINE = TOP_MARGIN + 20
-TABLE_TOP = LEGEND_BASELINE + 18
+TOP_MARGIN = 16
+LEGEND_BASELINE = TOP_MARGIN + 23
+TABLE_TOP = LEGEND_BASELINE + 21
 
 
 def col_width(texts, font_size, bold_flags=None):
