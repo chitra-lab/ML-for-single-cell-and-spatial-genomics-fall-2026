@@ -15,12 +15,10 @@ Recent experimental advances enable the measurement of DNA, RNA and other divers
 
 ## Course Resources
 
-| Resource | Link |
-|---|---|
-| Syllabus & Policies | [syllabus.pdf](syllabus.pdf) |
-| Assignments | [assignments/](assignments/README.md) |
-| Labs | [labs/](labs/) |
-| Lectures | [lectures/](lectures/) |
+- [Syllabus & Policies](syllabus.pdf)
+- [Assignments](assignments/README.md)
+- [Labs](labs/)
+- [Lectures](lectures/)
 
 ---
 
