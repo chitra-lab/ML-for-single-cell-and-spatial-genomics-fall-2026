@@ -1,0 +1,141 @@
+\documentclass[12pt]{article}
+\usepackage{amssymb}
+\usepackage{template}
+
+\homeworknumber{1}
+
+\begin{document}
+
+\makehomeworkheader
+\problem{PCA for Different Distributions}
+\begin{subquestions}
+\item Write out the PMF of a negative binomial distribution. When would you use a negative binomial distribution versus a Poisson distribution?
+
+\item Write out the GLM-PCA optimization problem for single cell count data following a negative binomial distribution. (Hint: The negative binomial distribution has two arguments, mean and overdispersion. Only use the matrix factorization $UV$ for one of these two arguments, and set the other as a learned constant.)
+
+\item What is the PDF of a log-normal distribution? When would you use such a distribution?
+
+\item Suppose your collaborator generated metabolomics data and wanted you to run GLM-PCA on it. After preprocessing, metabolomics data is often approximated with a log-normal distribution. Write out the GLM-PCA optimization problem for this metabolomics data.
+
+\item Suppose you asked ChatGPT to answer Question 1d for a brand new, very complicated distribution, and it gave you a specific optimization problem. However, you did not trust ChatGPT's answer and wanted to double-check that it gave you the correct optimization problem. Suggest a way you could do so without re-deriving the optimization problem from scratch.
+\end{subquestions}
+\newpage
+
+\problem{Canonical correlation analysis (CCA)}
+
+We are given two single cell datasets
+\begin{equation}
+    X=[x_{ig}] \in \mathbb{R}^{N \times G} \qquad \text{and} \qquad Y=[y_{ip}] \in \mathbb{R}^{N \times P},
+\end{equation}
+where each dataset measures a molecular feature (e.g., gene expression, protein expression, chromatin accessibility) on $N$ cells. The two datasets measure different features, with sizes $G$ and $P$ respectively, on the same $N$ cells. Assume $X$ and $Y$ are mean-centered, meaning that $\frac{1}{N} \sum_{i=1}^N x_{ig} = 0$ and $\frac{1}{N} \sum_{i=1}^N y_{ip} = 0$ for all features $g=1,\dots,G$ and $p=1,\dots,P$.
+
+Canonical correlation analysis (CCA) is an approach to identify ``shared correlation structures'' for the two datasets $X$ and $Y$. Specifically, in CCA, one aims to identify linear combinations
+\begin{equation}
+u \in \mathbb{R}^{G} \qquad \text{and} \qquad v \in \mathbb{R}^{P},
+\end{equation}
+
+of the two features such that $Xu$ and $Yv$ are maximally correlated.
+
+\begin{subquestions}
+\item Fill in the blanks in the CCA optimization problem:
+\begin{equation}
+    \argmax_{\substack{||u||_2=1 \\ ||v||_2=1}} \;\Corr\left(\underline{\hspace{1.5cm}},\underline{\hspace{1.5cm}} \right)
+\end{equation}
+
+\item Suppose $X=Y$ and we replace $\operatorname{Corr}$ with $\operatorname{Cov}$ in the optimization problem in part a. What problem does this represent? (Hint: We spent a class on it.)
+
+\item Recall the formula for Pearson correlation between two vectors $a$ and $b$:
+\begin{equation}
+    \Corr(a,b) = \frac{\Cov(a,b)}{\sqrt{\Var(a) \Var(b)}}
+\end{equation}
+
+Rewrite the optimization problem in part \textbf{a} using this equation.
+
+\item Define the variables $\Sigma_{XY}=\frac{1}{N-1}X^{T}Y$, $\Sigma_X=\frac{1}{N-1}X^{T}X$, and $\Sigma_Y=\frac{1}{N-1}Y^{T}Y$.
+
+Rewrite the optimization problem in part \textbf{c} to remove the variables $X$ and $Y$, and instead use the variables $\Sigma_{XY}, \Sigma_X$, and $\Sigma_Y$.
+
+The variable $\Sigma_{XY}$ is called the \emph{sample cross-covariance matrix} and the variables $\Sigma_X$ and $\Sigma_Y$ are called the \emph{sample covariance matrices} for $X$ and $Y$, respectively.
+
+Hint: Your optimization problem should have the form
+\begin{equation}
+    \argmax_{\substack{||v||_2=1, ||w||_2=1}} \frac{}{\sqrt{\hspace{2.5cm}}
+ \sqrt{\hspace{2.5cm}}}
+\end{equation}
+
+\item Define the variables
+\begin{equation}
+    \widetilde{u}=\Sigma_X^{1/2}u
+\qquad\text{and}\qquad
+\widetilde{v}=\Sigma_Y^{1/2}v.
+\end{equation}
+
+Rewrite the optimization problem in part \textbf{d} in terms of the variables $\widetilde{u}, \widetilde{v}, \Sigma_X, \Sigma_Y,\Sigma_{XY}$.
+
+\item Suppose you are told that a solution to the optimization problem
+\begin{equation}
+    \argmax_{\substack{||a||_2=1 \\ ||b||_2=1}} a^T M b
+\end{equation}
+is given by
+\begin{equation}
+    \widehat{a}=u
+\qquad\text{and}\qquad
+\widehat{b}=v,
+\end{equation}
+where $u$ and $v$ are the (matched) leading left and right singular vectors of the matrix $M$.
+
+Use this knowledge to derive the solution to the optimization problem in part \textbf{e}?
+
+\item \textit{[Open-ended]} The procedure you derived gives you the first \emph{canonical correlation vectors} $u_1$ and $v_1$. How could you extend the approach in part \textbf{f} to find the second canonical correlation vectors $u_2$ and $v_2$? More generally, how could you find the $k$-th canonical correlation vectors $u_k$ and $v_k$ for any $k$?
+
+\item Consider a different setting where we are given two single cell datasets
+\begin{equation}
+    X \in \mathbb{R}^{N \times G}
+\qquad \text{and} \qquad
+Y \in \mathbb{R}^{M \times G}
+\end{equation}
+which measure the same molecular feature (e.g., gene expression) on two cell populations of sizes $N$ and $M$, respectively.
+
+We would like to use CCA to embed the $N$ cells and $M$ cells, respectively, into a shared embedding space. How could you use CCA to do this?
+\end{subquestions}
+
+\textit{[CCA is the core algorithmic idea behind the first version of \href{https://www.nature.com/articles/nbt.4096}{Seurat}, a very popular single cell analysis package.]}
+
+\newpage
+
+\problem{NMF for multiple samples and modalities}
+
+\begin{subquestions}
+\item
+Suppose we measure a single cell data matrix $X \in \mathbb{R}^{N \times P}$ for $N$ cells with $P$ features. We aim to factorize the observed data as $X \approx UV$, where $U \in \mathbb{R}^{N\times K}$ is the factor matrix and $V\in \mathbb{K \times G}$ is the loading matrix, for some small $K>0$.
+Write out the NMF optimization problem for computing this factorization.
+
+\item
+Next, suppose we measure $S$ different single cell data matrices $X^{(s)} \in \mathbb{R}^{N_s \times P}$ for $s=1,\dots,S$. Our data measures the same $P$ features across $S$ different \emph{samples}, i.e. populations of cells.
+We aim to factorize each sample as $X^{(s)} \approx U^{(s)} V$, where each sample $s$ has its own factor matrix $U^{(s)}$ but all samples share a loading matrix $V$.
+
+Write out an NMF-style optimization problem for computing this factorization. Qualitatively explain what biological assumption is made if we share the loading matrix $V$ across all samples.
+
+\item
+Next, suppose we measure $M$ different single cell data matrices $X^{(m)} \in \mathbb{R}^{N \times P_m}$ for $m=1,\dots,M$. Our data measures $M$ different molecular modalities (e.g. gene expression, chromatin accessibility, etc.) across the same $N$ cells.
+We aim to factorize each sample as $X^{(m)} \approx U V^{(m)}$, where each modality $m$ has its own loading matrix $V^{(m)}$ but all modalities share a factor matrix $U$.
+
+Write out an NMF-style optimization problem for computing this factorization. Qualitatively explain what biological assumption is made if we share the factor matrix $U$ across all samples.
+
+\item
+Next, suppose we measure $S\cdot M$ different single cell data matrices $X^{(s,m)} \in \mathbb{R}^{N_s \times P_m}$ for $s=1,\dots,S$ and $m=1,\dots,M$. Our data measures $M$ different molecular modalities across $S$ different samples.
+We aim to factorize each sample as $X^{(s,m)} \approx U^{(s)} V^{(m)}$, where each sample $s$ has its own factor matrix $U^{(s)}$ and each modality $m$ has its own loading matrix $V^{(m)}$.
+
+Write out an NMF-style optimization problem for computing this factorization. Qualitatively explain what biological assumption(s) are being made by this factorization.
+
+\item
+In practice, not every modality may be measured in every sample.
+Let $\Omega \subseteq \{1, \ldots, S\} \times \{1, \ldots, M\}$ be the set of observed pairs $(s,m)$ of samples and modalities. sample-modality pairs. We only observe single cell data matrices $X^{(s,m)}$ for sample-modality pairs $(s,m) \in \Omega$.
+
+Modify the optimization problem in part \textbf{d} to only incorporate the observed data.
+
+\item
+Assume that observed pairs are sufficient to learn every factor matrix $U^{(s)}$ and loading matrix $V^{(m)}$. How would you estimate an \emph{unobserved} $X^{(s,m)}$ (i.e. $(s,m) \notin \Omega$)?
+\end{subquestions}
+
+\end{document}
