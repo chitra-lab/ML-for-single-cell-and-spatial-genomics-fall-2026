@@ -24,11 +24,6 @@ Recent experimental advances enable the measurement of DNA, RNA and other divers
 
 ## Schedule
 
-![Course schedule](assets/course-schedule.svg)
-
-<details>
-<summary>Plain-text schedule</summary>
-
 | Date | Class | Topic | Notes |
 |------|-------|-------|-------|
 | 9/1 | 1 | Introduction + single-cell primer | **HW1 released (due 9/17)** |
@@ -61,8 +56,6 @@ Recent experimental advances enable the measurement of DNA, RNA and other divers
 | 12/3 | 25 | **Project presentations** |  |
 | 12/8 | 26 | **Project presentations** |  |
 | 12/10 | 27 | **Project presentations** | **Final report due 12/12**<br>**Oral Exam 2 (on final project)** |
-
-</details>
 
 ---
 
