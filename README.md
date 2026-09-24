@@ -36,8 +36,8 @@ Recent experimental advances enable the measurement of DNA, RNA and other divers
 | 9/17 | 6 | Deep learning primer | **Quiz 1**<br>**HW1 due**<br>**HW2 released (due 9/29)** |
 | 9/22 | 7 | Quiz 1 review + deep dimensionality reduction: AE + VAE |  |
 | 9/24 | 8 | Deep dimensionality reduction: VAEs (cont.) + contrastive learning |  |
-| 9/29 | 9 | Deep dimensionality reduction: FMs + in-class lab | **Lab 2 in class (Report due 10/5)**<br>**HW2 due**<br>**HW3 released (due 10/13)** |
-| 10/1 | 10 | Manifold learning / graphs 1: definitions + ISOMAP | **Quiz 2**<br>**Project proposal due** |
+| 9/29 | 9 | Deep dimensionality reduction: FMs + in-class lab | **Lab 2 in class (Report due 10/5) |
+| 10/1 | 10 | Manifold learning / graphs 1: definitions + ISOMAP | **Quiz 2**<br>**Project proposal due** **<br>**HW2 due**<br>**HW3 released (due 10/13)** |
 | 10/6 | 11 | Quiz 2 review + Manifold learning / graphs 2: random walks |  |
 | 10/8 | 12 | Manifold learning / graphs 3: t-SNE/UMAP, Markov chains |  |
 | 10/13 | 13 | Manifold learning / graphs 4 (cont.) + in-class lab | **Lab 3 in class (Report due 10/19)**<br>**HW3 due**<br>**HW4 released (due 11/3)** |
