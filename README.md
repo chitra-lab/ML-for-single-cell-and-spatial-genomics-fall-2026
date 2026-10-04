@@ -34,13 +34,13 @@ Recent experimental advances enable the measurement of DNA, RNA and other divers
 | 9/17 | 6 | Deep learning primer + AE | **Quiz 1**<br>**HW1 due at start of quiz**<br>**HW2 released (due 10/1)** |
 | 9/22 | 7 | Quiz 1 review + deep dimensionality reduction: VAE | |
 | 9/24 | 8 | Deep dimensionality reduction: VAEs (cont.) + contrastive learning | |
-| 9/29 | 9 | Deep dimensionality reduction: FMs + in-class lab | **Lab 2 in class (Report due 10/5)** |
+| 9/29 | 9 | Deep dimensionality reduction: FMs + in-class lab | **Lab 2 in class (Report for Lab 2/3 due 10/26)** |
 | 10/1 | 10 | Quiz 2 + Lab 2 (cont.) | **Quiz 2**<br>**Project proposal due**<br>**HW2 due at start of quiz** |
 | 10/6 | 11 | Manifold learning / graphs 1: definitions + ISOMAP | **HW3 released (due 10/27)** |
 | 10/8 | 12 | Manifold learning / graphs 2: random walks | |
 | 10/13 | 13 | Manifold learning / graphs 3: t-SNE/UMAP, Markov chains | |
 | 10/15 | 14 | Guest lecture: Atul Deshpande (SOM) | |
-| 10/20 | 15 | Manifold learning / graphs 4 (cont.) + in-class lab | **Lab 3 in class (Report due 10/26)** |
+| 10/20 | 15 | Manifold learning / graphs 4 (cont.) + in-class lab | **Lab 3 in class (Report for Lab 2/3 due 10/26)** |
 | 10/22 | | **NO CLASS: Fall break** | **Oral Exam 1 (date TBD)** |
 | 10/27 | 16 | Graph clustering + GNNs | **Quiz 3**<br>**HW3 due at start of quiz**<br>**HW4 released (due 11/5)** |
 | 10/29 | 17 | Spatial methods: SVGs, neural fields, and point processes (segmentation) | |
