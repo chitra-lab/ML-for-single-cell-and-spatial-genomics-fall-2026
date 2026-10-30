@@ -42,13 +42,13 @@ Recent experimental advances enable the measurement of DNA, RNA and other divers
 | 10/15 | 14 | Guest lecture: Atul Deshpande (SOM) | |
 | 10/20 | 15 | Manifold learning / graphs 4 (cont.) + in-class lab | **Lab 3 in class (Report for Lab 2/3 due 10/26)** |
 | 10/22 | | **NO CLASS: Fall break** | **Oral Exam 1 (date TBD)** |
-| 10/27 | 16 | Graph clustering + GNNs | **Quiz 3**<br>**HW3 due at start of quiz**<br>**HW4 released (due 11/5)** |
-| 10/29 | 17 | Spatial methods: SVGs, neural fields, and point processes (segmentation) | |
-| 11/3 | 18 | Spatial methods (cont.) + in-class lab | **Lab 4 in class (Report due 11/9)** |
-| 11/5 | 19 | Optimal transport 1: Monge/Kantorovich/Wasserstein distance | **Quiz 4**<br>**HW4 due at start of quiz**<br>**HW5 released (due 11/17)** |
-| 11/10 | 20 | Optimal transport 2: Sinkhorn | |
-| 11/12 | 21 | Optimal transport 3: Gromov-Wasserstein, dynamic OT, (semi-)balanced/unbalanced OT, applications + in-class lab | **Lab 5 in class (Report due 11/16)**<br>**Project Preliminary Report due** |
-| 11/17 | 22 | Guest lecture: Min-zhi Jiang (Biostats) | **Quiz 5**<br>**HW5 due at start of quiz** |
+| 10/27 | 16 | Clustering 1 | **Quiz 3**<br>**HW3 due at start of quiz** |
+| 10/29 | 17 | Clustering 2 | **HW4 released (due 11/10)** | 
+| 11/3 | 18 | Graph clustering + GNNs | |
+| 11/5 | 19 | Spatial methods | |
+| 11/10 | 20 | Spatial methods (cont'd) | **HW4 due** |
+| 11/12 | 21 |  In-class lab or assorted topics (TBD) | |
+| 11/17 | 22 | Guest lecture: Min-zhi Jiang (Biostats) | |
 | 11/19 | 23 | Guest lecture: Vishaka Gopalan (NIH) + Shashwat Kumar (BME) | |
 | 11/24 | | **NO CLASS: Thanksgiving break** | |
 | 11/26 | | **NO CLASS: Thanksgiving break** | |
@@ -63,7 +63,7 @@ Recent experimental advances enable the measurement of DNA, RNA and other divers
 
 | Component | Weight |
 |-----------|--------|
-| In-class assessments | 25% (5% each) |
+| In-class assessments | 25% |
 | Oral exam | 25% |
 | Homework | 10% |
 | Labs | 10% |
