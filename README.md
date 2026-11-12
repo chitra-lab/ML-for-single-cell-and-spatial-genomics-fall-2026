@@ -47,7 +47,7 @@ Recent experimental advances enable the measurement of DNA, RNA and other divers
 | 11/3 | 18 | Graph clustering + GNNs | |
 | 11/5 | 19 | Spatial methods | |
 | 11/10 | 20 | Spatial methods (cont'd) | **HW4 due** |
-| 11/12 | 21 |  In-class lab or assorted topics (TBD) | |
+| 11/12 | 21 |  Spatial methods cont’d + in-class lab | |
 | 11/17 | 22 | Guest lecture: Min-zhi Jiang (Biostats) | |
 | 11/19 | 23 | Guest lecture: Vishaka Gopalan (NIH) + Shashwat Kumar (BME) | |
 | 11/24 | | **NO CLASS: Thanksgiving break** | |
