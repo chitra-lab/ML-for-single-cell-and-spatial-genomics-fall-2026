@@ -53,9 +53,9 @@ Recent experimental advances enable the measurement of DNA, RNA and other divers
 | 11/24 | | **NO CLASS: Thanksgiving break** | |
 | 11/26 | | **NO CLASS: Thanksgiving break** | |
 | 12/1 | 24 | Guest lecture: Yiqun Chen (Biostats/CS) | |
-| 12/3 | 25 | **Project presentations** | **Lab 4 report due** |
-| 12/8 | 26 | **Project presentations** | |
-| 12/10 | 27 | **Project presentations** | **Final report due 12/12**<br>**Oral Exam 2 (on final project)** |
+| 12/3 | 25 | **Project presentations**: Yi Hung Lim; Aditya Jain; Maggie Ma + Min Yang; Amrit Menon + Tanay Sanghvi | **Lab 4 report due** |
+| 12/8 | 26 | **Project presentations**: Derrick Liu + Oliver Nizet + Johnny Su + Xiaoyan Zhan; Leyla Rasheed; Nikola Zadorozhny | |
+| 12/10 | 27 | **Project presentations**: Luiz Mata Lopez; Mayling Chen + Cody Peng + Tina Tian; Marika Abe + Jiawei Hu + Shubhangi Kumar | **Final report due 12/12**<br>**Oral Exam 2 (on final project)** |
 
 ---
 
